@@ -1,0 +1,40 @@
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\WebcamForYOU.exe
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\WebcamForYOU.pdb
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.dll
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.dll
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.xml
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.DirectShow.pdb
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.xml
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.csprojResolveAssemblyReference.cache
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.Form1.resources
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.Properties.Resources.resources
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.csproj.GenerateResource.Cache
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.exe
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.pdb
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\WebcamForYOU.exe.manifest
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\bin\Debug\WebcamForYOU.application
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.TrustInfo.xml
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.exe.manifest
+C:\Users\Deepak\Desktop\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.application
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.exe
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.pdb
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\WebcamForYOU.exe.manifest
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\WebcamForYOU.application
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\WebcamForYOU.exe
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\WebcamForYOU.pdb
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.DirectShow.dll
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.dll
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.dll
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.xml
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.DirectShow.pdb
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.Video.DirectShow.xml
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\bin\Debug\AForge.xml
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.Form1.resources
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.Properties.Resources.resources
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.TrustInfo.xml
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.exe.manifest
+D:\Visual Studio Projects\WebcamForYOU\WebcamForYOU\obj\Debug\WebcamForYOU.application
